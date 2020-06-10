@@ -7,6 +7,6 @@ Introduction
 
 something
 
-![image](https://github.com/Organ-NNIR/Introduction/blob/master/NNIR.png)
+![image](https://github.com/BJUT-NNIR/Introduction/blob/master/NNIR.png)
 
 项目库成立日：2020.06.09
